@@ -5,7 +5,7 @@ export function Header() {
     <header className="relative h-[70vh]">
       <div className="absolute inset-0">
         <img
-          src="https://images.unsplash.com/photo-1605338803155-8b46c2edc3d9?auto=format&fit=crop&q=80&w=2000"
+          src="/Public/hero-tractor.jpg"  // Update path to your local image
           alt="Modern John Deere Tractor"
           className="w-full h-full object-cover"
         />
